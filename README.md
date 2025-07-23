@@ -71,6 +71,7 @@ Bu proje, C# WinForms kullanılarak geliştirilmiş bir basit \*\*hastane randev
 !\[Hasta Detay](ekran-goruntuleri/hasta-detay.png)
 
 !\[Hasta Bilgi Güncelleme](ekran-goruntuleri/hasta-bilgiguncelleme.png)
+
 !\[Sekreter Giriş](ekran-goruntuleri/sekreter-giris.png)
 
 !\[Sekreter Detayları](ekran-goruntuleri/sekreter-detaylari.png)
