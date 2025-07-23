@@ -54,33 +54,33 @@ Bu proje, C# WinForms kullanılarak geliştirilmiş bir basit \*\*hastane randev
 
 
 
-!\[Giriş Ekranı](ekran-goruntuleri/login.png)
+!\[Giriş Ekranı](images/login.png)
 
-!\[Doktor Girişi](ekran-goruntuleri/doktor-giris.png)
+!\[Doktor Girişi](images/doktor-giris.png)
 
-!\[Doktor Detayları](ekran-goruntuleri/doktor-detay.png)
+!\[Doktor Detayları](images/doktor-detay.png)
 
-!\[Doktor Bilgi Güncelleme](ekran-goruntuleri/doktor-bilgiguncelleme.png)
+!\[Doktor Bilgi Güncelleme](images/doktor-bilgiguncelleme.png)
 
-!\[Duyurular](ekran-goruntuleri/duyurular.png)
+!\[Duyurular](images/duyurular.png)
 
-!\[Hasta Giriş](ekran-goruntuleri/hasta-giris.png)
+!\[Hasta Giriş](images/hasta-giris.png)
 
-!\[Hasta Kayıt](ekran-goruntuleri/hasta-kayit.png)
+!\[Hasta Kayıt](images/hasta-kayit.png)
 
-!\[Hasta Detay](ekran-goruntuleri/hasta-detay.png)
+!\[Hasta Detay](images/hasta-detay.png)
 
-!\[Hasta Bilgi Güncelleme](ekran-goruntuleri/hasta-bilgiguncelleme.png)
+!\[Hasta Bilgi Güncelleme](images/hasta-bilgiguncelleme.png)
 
-!\[Sekreter Giriş](ekran-goruntuleri/sekreter-giris.png)
+!\[Sekreter Giriş](images/sekreter-giris.png)
 
-!\[Sekreter Detayları](ekran-goruntuleri/sekreter-detaylari.png)
+!\[Sekreter Detayları](images/sekreter-detaylari.png)
 
-!\[Doktor Paneli](ekran-goruntuleri/doktor-paneli.png)
+!\[Doktor Paneli](images/doktor-paneli.png)
 
-!\[Branş Paneli](ekran-goruntuleri/brans-paneli.png)
+!\[Branş Paneli](images/brans-paneli.png)
 
-!\[Randevu Listesi](ekran-goruntuleri/randevu-listesi.png)
+!\[Randevu Listesi](images/randevu-listesi.png)
 
 
 
