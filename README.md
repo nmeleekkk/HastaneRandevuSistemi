@@ -50,40 +50,6 @@ Bu proje, C# WinForms kullanılarak geliştirilmiş bir basit \*\*hastane randev
 
 
 
-\## 📸 Ekran Görüntüleri
-
-
-
-!\[Giriş Ekranı](images/login.png)
-
-!\[Doktor Girişi](images/doktor-giris.png)
-
-!\[Doktor Detayları](images/doktor-detay.png)
-
-!\[Doktor Bilgi Güncelleme](images/doktor-bilgiguncelleme.png)
-
-!\[Duyurular](images/duyurular.png)
-
-!\[Hasta Giriş](images/hasta-giris.png)
-
-!\[Hasta Kayıt](images/hasta-kayit.png)
-
-!\[Hasta Detay](images/hasta-detay.png)
-
-!\[Hasta Bilgi Güncelleme](images/hasta-bilgiguncelleme.png)
-
-!\[Sekreter Giriş](images/sekreter-giris.png)
-
-!\[Sekreter Detayları](images/sekreter-detaylari.png)
-
-!\[Doktor Paneli](images/doktor-paneli.png)
-
-!\[Branş Paneli](images/brans-paneli.png)
-
-!\[Randevu Listesi](images/randevu-listesi.png)
-
-
-
 ## 📎 Not
 
 
